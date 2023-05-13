@@ -1,2 +1,2 @@
 # app-tieuhoc
-should use iphone 14pro-max
+should using iphone 13-14
